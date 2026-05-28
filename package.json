@@ -1,0 +1,15 @@
+{
+    "type": "module",
+    "name": "v5-ci-hsm",
+    "version": "1.0.0",
+    "description": "Plays the role of a hardware security module",
+    "main": "demo-3054.mjs",
+    "author": "Francisco Corella (https://pomcor.com)",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.16.1",
+        "express": "^5.2.1",
+        "express-handlebars": "^8.0.3",
+        "pjcl": "^1.0.1"
+    }
+}
